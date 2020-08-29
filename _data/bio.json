@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Joshua Rio",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://JoshuaRio.github.io/images/molly.png",
+    "email": "jmrio@hawaii.edu",
+    "phone": "808-861-2160",
+    "website": "https://JoshuaRio.github.io",
+    "summary": "I am studying for a B.B.A. in Management Information Systems and Finance in the Shidler college of Business at the University of Hawaii at Manoa. I expect to graduate in Spring, 2023.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "Honolulu, Hawaii",
+      "postalCode": "96819",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,42 +17,34 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "JoshuaRio",
+        "url": "http://github.com/JoshuaRio"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://linkedin.com/in/Joshuario"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Coding",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Java",
+        "Python"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Management",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Adobe Cloud Programs",
       "keywords": [
+        "Photoshop",
+        "Premiere"
       ]
     }
   ],
