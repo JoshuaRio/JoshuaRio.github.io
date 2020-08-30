@@ -22,29 +22,26 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "JoshuaRio",
         "url": "http://linkedin.com/in/Joshuario"
       },
     ]
   },
   "interests": [
     {
-      "name": "Coding",
-      "keywords": [
-        "Java",
-        "Python"
-      ]
-    },
-    {
       "name": "Data Management",
       "keywords": [
       ]
     },
     {
-      "name": "Adobe Cloud Programs",
+      "name": "Computer Software Programming",
       "keywords": [
-        "Photoshop",
-        "Premiere"
+        "Squarespace
+      ]
+    },
+    {
+      "name": "Hiking",
+      "keywords": [
       ]
     }
   ],
@@ -53,32 +50,24 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Website Management",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Squarespace",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": " (Management Information Systems, Finance, and Accounting (expected Spring, 2023)",
+      "studyType": "B.B.A",
+      "startDate": "2019-08",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -87,69 +76,69 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Office of Multicutural Student Services",
+      "position": "Outreach Worker",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-10",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Serve as a liaison between Hawaii high schools and the University of Hawaii at Manoa",
+        "Lead multiple tours of incoming freshmen across the Manoa campus"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "UH STAR Registration Website",
+      "position": "STAR Administration Assistant",
+      "website": "",
+      "startDate": "2020-01",
+      "endDate": "2020-08",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Engaged in the troubleshooting of class registration to ensure it ran smoothly on the website",
+        "Answered phone and email responses to the STAR office"
       ]
-    }
+    },
+    {
+      "company": "MACY's",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2019-03",
+      "endDate": "2019-08",
+      "summary": "",
+      "highlights": [
+        "",
+        "Commited customers to sales"
+        "Answered customer inquires and comments"
+      ]
+    },
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Business Executive Society of Tomorrow",
+      "website": "https://www.bestuhm.org/home",
+      "position": "IT Officer",
+      "startDate": "2020-05",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Lead developer of the club website",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2019-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Service Learning Award",
+      "date": "2020",
+      "awarder": "University of Hawaii",
+      "summary": "Achieving more than 50 hours of community service during the fall semester."
     }
   ],
   "references": [
