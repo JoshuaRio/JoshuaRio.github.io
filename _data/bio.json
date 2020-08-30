@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "JoshuaRio",
         "url": "http://linkedin.com/in/Joshuario"
-      },
+      }
     ]
   },
   "interests": [
@@ -36,7 +36,7 @@
     {
       "name": "Computer Software Programming",
       "keywords": [
-        "Squarespace
+        "Squarespace"
       ]
     },
     {
@@ -51,14 +51,14 @@
       "level": "",
       "keywords": [
         "Java",
-        "Python",
+        "Python"
       ]
     },
     {
       "name": "Website Management",
       "level": "",
       "keywords": [
-        "Squarespace",
+        "Squarespace"
       ]
     }
   ],
@@ -108,10 +108,10 @@
       "summary": "",
       "highlights": [
         "",
-        "Commited customers to sales"
+        "Commited customers to sales",
         "Answered customer inquires and comments"
       ]
-    },
+    }
   ],
   "volunteer": [
     {
@@ -125,7 +125,7 @@
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
-    },
+    }
   ],
   "awards": [
     {
